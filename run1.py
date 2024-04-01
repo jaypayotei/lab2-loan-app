@@ -22,7 +22,7 @@ app_mode = st.sidebar.selectbox('Select Page',['Home','Prediction'])
 if app_mode=='Home':
     st.title('LOAN PREDICTION')
     st.image('loan_image.jpg') 
-    st.write('@DSU for learning purposes only') 
+    st.write('@DSU for learning purposes only !') 
    
    
    
